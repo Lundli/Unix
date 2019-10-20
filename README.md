@@ -1,7 +1,7 @@
 # linux
 tips &amp; tricks to remember for myself
 
-
+(https://www.linuxbabe.com/desktop-linux/switch-intel-nvidia-graphics-card-ubuntu)
 https://askubuntu.com/questions/1117153/how-enable-use-geforce-mx150
 
 Alternatively, you can open your terminal and write the command
