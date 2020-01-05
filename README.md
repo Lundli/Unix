@@ -14,3 +14,10 @@ or
 
 `sudo prime-select intel`
 to change between the two cards and then restart the session.
+
+
+
+
+**gpg keyserver receive failed: server indicated a failure**
+Add google dns server to resolv.conf (located at /etc/resolv.conf)
+`nameserver 8.8.8.8 #google dns server`
