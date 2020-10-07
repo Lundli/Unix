@@ -21,3 +21,10 @@ to change between the two cards and then restart the session.
 **gpg keyserver receive failed: server indicated a failure**
 Add google dns server to resolv.conf (located at /etc/resolv.conf)
 `nameserver 8.8.8.8 #google dns server`
+
+
+
+**Jetbrains tools not working in tiling WM (e.g bspwm)**
+https://github.com/swaywm/sway/issues/595
+Solution:
+`wmname LG3D`
