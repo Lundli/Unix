@@ -28,3 +28,7 @@ Add google dns server to resolv.conf (located at /etc/resolv.conf)
 https://github.com/swaywm/sway/issues/595
 Solution:
 `wmname LG3D`
+
+**Bspwm: Super + Space to trig dmenu not working**
+Solution:
+If keyboard layout is changed, then it might not work. Changing back from norwegian to us-keyboard solved the issue.
