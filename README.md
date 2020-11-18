@@ -15,6 +15,8 @@ or
 `sudo prime-select intel`
 to change between the two cards and then restart the session.
 
+Note: this didn't turn disable the gpu. Use powertop to manually adjust afterwards
+
 
 
 
