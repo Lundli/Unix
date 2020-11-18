@@ -32,3 +32,8 @@ Solution:
 **Bspwm: Super + Space to trig dmenu not working**
 Solution:
 If keyboard layout is changed, then it might not work. Changing back from norwegian to us-keyboard solved the issue.
+
+
+
+**Volume adjust using terminal**
+pactl set-sink-volume @DEFAULT_SINK@ -10% (decrease by 10%)
