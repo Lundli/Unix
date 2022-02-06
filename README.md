@@ -39,3 +39,9 @@ If keyboard layout is changed, then it might not work. Changing back from norweg
 
 **Volume adjust using terminal**
 pactl set-sink-volume @DEFAULT_SINK@ -10% (decrease by 10%)
+
+
+
+** Gnome delay
+https://askubuntu.com/questions/911946/terminal-appears-with-much-delay-when-shortcut-is-used
+
